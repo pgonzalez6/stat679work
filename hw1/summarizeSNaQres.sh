@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/bin/bash 
+exec >out.csv
 
 ### At first get hmax from each file
 for i in {1..13};do 
