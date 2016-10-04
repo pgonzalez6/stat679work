@@ -3,9 +3,9 @@ exec >out.csv
 cat out.csv | sort -t, -bk 2
 
 ### At first get hmax from each file
-for i in {1..13};do 
-grep "hmax" log/timetest${i}_snaq.log 
-grep "hmax" out/timetest${i}_snaq.out	
+for i in {1..9};do 
+grep "hmax" log/timetest0${i}_snaq.log 
+grep "hmax" out/timetest0${i}_snaq.out	
 
 
 ### print the CPU time 
