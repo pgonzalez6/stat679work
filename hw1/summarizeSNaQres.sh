@@ -4,8 +4,8 @@ exec >out.csv
 
 ### At first get hmax from each file
 for i in {1..9};do 
-grep "hmax" log/timetest0${i}_snaq.log 
-grep "hmax" out/timetest0${i}_snaq.out	
+grep "hmax" log/timetest$0{i}_snaq.log 
+grep "hmax" out/timetest$0{i}_snaq.out	
 
 
 ### print the CPU time 
