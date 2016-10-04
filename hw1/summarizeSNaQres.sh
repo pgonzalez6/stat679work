@@ -7,7 +7,7 @@ grep "hmax" out/timetest${i}_snaq.out
 
 
 ### print the CPU time 
-ps -e -o %cpu | awk '{s+=$1} END {print s}' >output.csv
+ps -e -o %cpu | awk '{s+=$1} END {print s}' > output.csv
 done
 
 
