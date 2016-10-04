@@ -1,6 +1,6 @@
 #!/bin/bash 
 exec >out.csv
-cat out.csv | sort -t, -bk 2
+
 
 ### At first get hmax from each file
 for i in {1..9};do 
