@@ -1,0 +1,992 @@
+0,bT1,1
+1
+1
+0
+1
+0
+2
+0
+3
+0
+4
+0
+5
+0
+6
+0
+7
+0
+8
+0
+9
+1
+0
+1
+1
+1
+2
+1
+3
+1,net1_snaq,1
+1
+1
+0
+1
+0
+2
+0
+3
+0
+4
+0
+5
+0
+6
+0
+7
+0
+8
+0
+9
+1
+0
+1
+1
+1
+2
+1
+3
+1,newtry1,1
+1
+1
+0
+1
+0
+2
+0
+3
+0
+4
+0
+5
+0
+6
+0
+7
+0
+8
+0
+9
+1
+0
+1
+1
+1
+2
+1
+3
+1,timetest01_snaq,1
+1
+1
+0
+1
+0
+2
+0
+3
+0
+4
+0
+5
+0
+6
+0
+7
+0
+8
+0
+9
+1
+0
+1
+1
+1
+2
+1
+3
+1,timetest02_snaq,1
+1
+1
+0
+1
+0
+2
+0
+3
+0
+4
+0
+5
+0
+6
+0
+7
+0
+8
+0
+9
+1
+0
+1
+1
+1
+2
+1
+3
+1,timetest03_snaq,1
+1
+1
+0
+1
+0
+2
+0
+3
+0
+4
+0
+5
+0
+6
+0
+7
+0
+8
+0
+9
+1
+0
+1
+1
+1
+2
+1
+3
+1,timetest04_snaq,1
+1
+1
+0
+1
+0
+2
+0
+3
+0
+4
+0
+5
+0
+6
+0
+7
+0
+8
+0
+9
+1
+0
+1
+1
+1
+2
+1
+3
+1,timetest05_snaq,1
+1
+1
+0
+1
+0
+2
+0
+3
+0
+4
+0
+5
+0
+6
+0
+7
+0
+8
+0
+9
+1
+0
+1
+1
+1
+2
+1
+3
+1,timetest06_snaq,1
+1
+1
+0
+1
+0
+2
+0
+3
+0
+4
+0
+5
+0
+6
+0
+7
+0
+8
+0
+9
+1
+0
+1
+1
+1
+2
+1
+3
+1,timetest07_snaq,1
+1
+1
+0
+1
+0
+2
+0
+3
+0
+4
+0
+5
+0
+6
+0
+7
+0
+8
+0
+9
+1
+0
+1
+1
+1
+2
+1
+3
+1,timetest08_snaq,1
+1
+1
+0
+1
+0
+2
+0
+3
+0
+4
+0
+5
+0
+6
+0
+7
+0
+8
+0
+9
+1
+0
+1
+1
+1
+2
+1
+3
+1,timetest09_snaq,1
+1
+1
+0
+1
+0
+2
+0
+3
+0
+4
+0
+5
+0
+6
+0
+7
+0
+8
+0
+9
+1
+0
+1
+1
+1
+2
+1
+3
+1,timetest10_snaq,1
+1
+1
+0
+1
+0
+2
+0
+3
+0
+4
+0
+5
+0
+6
+0
+7
+0
+8
+0
+9
+1
+0
+1
+1
+1
+2
+1
+3
+1,timetest11_snaq,1
+1
+1
+0
+1
+0
+2
+0
+3
+0
+4
+0
+5
+0
+6
+0
+7
+0
+8
+0
+9
+1
+0
+1
+1
+1
+2
+1
+3
+1,timetest12_snaq,1
+1
+1
+0
+1
+0
+2
+0
+3
+0
+4
+0
+5
+0
+6
+0
+7
+0
+8
+0
+9
+1
+0
+1
+1
+1
+2
+1
+3
+1,timetest13_snaq,1
+1
+1
+0
+1
+0
+2
+0
+3
+0
+4
+0
+5
+0
+6
+0
+7
+0
+8
+0
+9
+1
+0
+1
+1
+1
+2
+1
+3
+0,bT1,out/bT1.out:Elapsed time: 
+out/net1_snaq.out:Elapsed time: 
+out/newtry1.out:Elapsed time: 
+out/timetest01_snaq.out:Elapsed time: 
+out/timetest02_snaq.out:Elapsed time: 
+out/timetest03_snaq.out:Elapsed time: 
+out/timetest04_snaq.out:Elapsed time: 
+out/timetest05_snaq.out:Elapsed time: 
+out/timetest06_snaq.out:Elapsed time: 
+out/timetest07_snaq.out:Elapsed time: 
+out/timetest08_snaq.out:Elapsed time: 
+out/timetest09_snaq.out:Elapsed time: 
+out/timetest10_snaq.out:Elapsed time: 
+out/timetest11_snaq.out:Elapsed time: 
+out/timetest12_snaq.out:Elapsed time: 
+out/timetest13_snaq.out:Elapsed time: 
+1,net1_snaq,out/bT1.out:Elapsed time: 
+out/net1_snaq.out:Elapsed time: 
+out/newtry1.out:Elapsed time: 
+out/timetest01_snaq.out:Elapsed time: 
+out/timetest02_snaq.out:Elapsed time: 
+out/timetest03_snaq.out:Elapsed time: 
+out/timetest04_snaq.out:Elapsed time: 
+out/timetest05_snaq.out:Elapsed time: 
+out/timetest06_snaq.out:Elapsed time: 
+out/timetest07_snaq.out:Elapsed time: 
+out/timetest08_snaq.out:Elapsed time: 
+out/timetest09_snaq.out:Elapsed time: 
+out/timetest10_snaq.out:Elapsed time: 
+out/timetest11_snaq.out:Elapsed time: 
+out/timetest12_snaq.out:Elapsed time: 
+out/timetest13_snaq.out:Elapsed time: 
+1,newtry1,out/bT1.out:Elapsed time: 
+out/net1_snaq.out:Elapsed time: 
+out/newtry1.out:Elapsed time: 
+out/timetest01_snaq.out:Elapsed time: 
+out/timetest02_snaq.out:Elapsed time: 
+out/timetest03_snaq.out:Elapsed time: 
+out/timetest04_snaq.out:Elapsed time: 
+out/timetest05_snaq.out:Elapsed time: 
+out/timetest06_snaq.out:Elapsed time: 
+out/timetest07_snaq.out:Elapsed time: 
+out/timetest08_snaq.out:Elapsed time: 
+out/timetest09_snaq.out:Elapsed time: 
+out/timetest10_snaq.out:Elapsed time: 
+out/timetest11_snaq.out:Elapsed time: 
+out/timetest12_snaq.out:Elapsed time: 
+out/timetest13_snaq.out:Elapsed time: 
+1,timetest01_snaq,out/bT1.out:Elapsed time: 
+out/net1_snaq.out:Elapsed time: 
+out/newtry1.out:Elapsed time: 
+out/timetest01_snaq.out:Elapsed time: 
+out/timetest02_snaq.out:Elapsed time: 
+out/timetest03_snaq.out:Elapsed time: 
+out/timetest04_snaq.out:Elapsed time: 
+out/timetest05_snaq.out:Elapsed time: 
+out/timetest06_snaq.out:Elapsed time: 
+out/timetest07_snaq.out:Elapsed time: 
+out/timetest08_snaq.out:Elapsed time: 
+out/timetest09_snaq.out:Elapsed time: 
+out/timetest10_snaq.out:Elapsed time: 
+out/timetest11_snaq.out:Elapsed time: 
+out/timetest12_snaq.out:Elapsed time: 
+out/timetest13_snaq.out:Elapsed time: 
+1,timetest02_snaq,out/bT1.out:Elapsed time: 
+out/net1_snaq.out:Elapsed time: 
+out/newtry1.out:Elapsed time: 
+out/timetest01_snaq.out:Elapsed time: 
+out/timetest02_snaq.out:Elapsed time: 
+out/timetest03_snaq.out:Elapsed time: 
+out/timetest04_snaq.out:Elapsed time: 
+out/timetest05_snaq.out:Elapsed time: 
+out/timetest06_snaq.out:Elapsed time: 
+out/timetest07_snaq.out:Elapsed time: 
+out/timetest08_snaq.out:Elapsed time: 
+out/timetest09_snaq.out:Elapsed time: 
+out/timetest10_snaq.out:Elapsed time: 
+out/timetest11_snaq.out:Elapsed time: 
+out/timetest12_snaq.out:Elapsed time: 
+out/timetest13_snaq.out:Elapsed time: 
+1,timetest03_snaq,out/bT1.out:Elapsed time: 
+out/net1_snaq.out:Elapsed time: 
+out/newtry1.out:Elapsed time: 
+out/timetest01_snaq.out:Elapsed time: 
+out/timetest02_snaq.out:Elapsed time: 
+out/timetest03_snaq.out:Elapsed time: 
+out/timetest04_snaq.out:Elapsed time: 
+out/timetest05_snaq.out:Elapsed time: 
+out/timetest06_snaq.out:Elapsed time: 
+out/timetest07_snaq.out:Elapsed time: 
+out/timetest08_snaq.out:Elapsed time: 
+out/timetest09_snaq.out:Elapsed time: 
+out/timetest10_snaq.out:Elapsed time: 
+out/timetest11_snaq.out:Elapsed time: 
+out/timetest12_snaq.out:Elapsed time: 
+out/timetest13_snaq.out:Elapsed time: 
+1,timetest04_snaq,out/bT1.out:Elapsed time: 
+out/net1_snaq.out:Elapsed time: 
+out/newtry1.out:Elapsed time: 
+out/timetest01_snaq.out:Elapsed time: 
+out/timetest02_snaq.out:Elapsed time: 
+out/timetest03_snaq.out:Elapsed time: 
+out/timetest04_snaq.out:Elapsed time: 
+out/timetest05_snaq.out:Elapsed time: 
+out/timetest06_snaq.out:Elapsed time: 
+out/timetest07_snaq.out:Elapsed time: 
+out/timetest08_snaq.out:Elapsed time: 
+out/timetest09_snaq.out:Elapsed time: 
+out/timetest10_snaq.out:Elapsed time: 
+out/timetest11_snaq.out:Elapsed time: 
+out/timetest12_snaq.out:Elapsed time: 
+out/timetest13_snaq.out:Elapsed time: 
+1,timetest05_snaq,out/bT1.out:Elapsed time: 
+out/net1_snaq.out:Elapsed time: 
+out/newtry1.out:Elapsed time: 
+out/timetest01_snaq.out:Elapsed time: 
+out/timetest02_snaq.out:Elapsed time: 
+out/timetest03_snaq.out:Elapsed time: 
+out/timetest04_snaq.out:Elapsed time: 
+out/timetest05_snaq.out:Elapsed time: 
+out/timetest06_snaq.out:Elapsed time: 
+out/timetest07_snaq.out:Elapsed time: 
+out/timetest08_snaq.out:Elapsed time: 
+out/timetest09_snaq.out:Elapsed time: 
+out/timetest10_snaq.out:Elapsed time: 
+out/timetest11_snaq.out:Elapsed time: 
+out/timetest12_snaq.out:Elapsed time: 
+out/timetest13_snaq.out:Elapsed time: 
+1,timetest06_snaq,out/bT1.out:Elapsed time: 
+out/net1_snaq.out:Elapsed time: 
+out/newtry1.out:Elapsed time: 
+out/timetest01_snaq.out:Elapsed time: 
+out/timetest02_snaq.out:Elapsed time: 
+out/timetest03_snaq.out:Elapsed time: 
+out/timetest04_snaq.out:Elapsed time: 
+out/timetest05_snaq.out:Elapsed time: 
+out/timetest06_snaq.out:Elapsed time: 
+out/timetest07_snaq.out:Elapsed time: 
+out/timetest08_snaq.out:Elapsed time: 
+out/timetest09_snaq.out:Elapsed time: 
+out/timetest10_snaq.out:Elapsed time: 
+out/timetest11_snaq.out:Elapsed time: 
+out/timetest12_snaq.out:Elapsed time: 
+out/timetest13_snaq.out:Elapsed time: 
+1,timetest07_snaq,out/bT1.out:Elapsed time: 
+out/net1_snaq.out:Elapsed time: 
+out/newtry1.out:Elapsed time: 
+out/timetest01_snaq.out:Elapsed time: 
+out/timetest02_snaq.out:Elapsed time: 
+out/timetest03_snaq.out:Elapsed time: 
+out/timetest04_snaq.out:Elapsed time: 
+out/timetest05_snaq.out:Elapsed time: 
+out/timetest06_snaq.out:Elapsed time: 
+out/timetest07_snaq.out:Elapsed time: 
+out/timetest08_snaq.out:Elapsed time: 
+out/timetest09_snaq.out:Elapsed time: 
+out/timetest10_snaq.out:Elapsed time: 
+out/timetest11_snaq.out:Elapsed time: 
+out/timetest12_snaq.out:Elapsed time: 
+out/timetest13_snaq.out:Elapsed time: 
+1,timetest08_snaq,out/bT1.out:Elapsed time: 
+out/net1_snaq.out:Elapsed time: 
+out/newtry1.out:Elapsed time: 
+out/timetest01_snaq.out:Elapsed time: 
+out/timetest02_snaq.out:Elapsed time: 
+out/timetest03_snaq.out:Elapsed time: 
+out/timetest04_snaq.out:Elapsed time: 
+out/timetest05_snaq.out:Elapsed time: 
+out/timetest06_snaq.out:Elapsed time: 
+out/timetest07_snaq.out:Elapsed time: 
+out/timetest08_snaq.out:Elapsed time: 
+out/timetest09_snaq.out:Elapsed time: 
+out/timetest10_snaq.out:Elapsed time: 
+out/timetest11_snaq.out:Elapsed time: 
+out/timetest12_snaq.out:Elapsed time: 
+out/timetest13_snaq.out:Elapsed time: 
+1,timetest09_snaq,out/bT1.out:Elapsed time: 
+out/net1_snaq.out:Elapsed time: 
+out/newtry1.out:Elapsed time: 
+out/timetest01_snaq.out:Elapsed time: 
+out/timetest02_snaq.out:Elapsed time: 
+out/timetest03_snaq.out:Elapsed time: 
+out/timetest04_snaq.out:Elapsed time: 
+out/timetest05_snaq.out:Elapsed time: 
+out/timetest06_snaq.out:Elapsed time: 
+out/timetest07_snaq.out:Elapsed time: 
+out/timetest08_snaq.out:Elapsed time: 
+out/timetest09_snaq.out:Elapsed time: 
+out/timetest10_snaq.out:Elapsed time: 
+out/timetest11_snaq.out:Elapsed time: 
+out/timetest12_snaq.out:Elapsed time: 
+out/timetest13_snaq.out:Elapsed time: 
+1,timetest10_snaq,out/bT1.out:Elapsed time: 
+out/net1_snaq.out:Elapsed time: 
+out/newtry1.out:Elapsed time: 
+out/timetest01_snaq.out:Elapsed time: 
+out/timetest02_snaq.out:Elapsed time: 
+out/timetest03_snaq.out:Elapsed time: 
+out/timetest04_snaq.out:Elapsed time: 
+out/timetest05_snaq.out:Elapsed time: 
+out/timetest06_snaq.out:Elapsed time: 
+out/timetest07_snaq.out:Elapsed time: 
+out/timetest08_snaq.out:Elapsed time: 
+out/timetest09_snaq.out:Elapsed time: 
+out/timetest10_snaq.out:Elapsed time: 
+out/timetest11_snaq.out:Elapsed time: 
+out/timetest12_snaq.out:Elapsed time: 
+out/timetest13_snaq.out:Elapsed time: 
+1,timetest11_snaq,out/bT1.out:Elapsed time: 
+out/net1_snaq.out:Elapsed time: 
+out/newtry1.out:Elapsed time: 
+out/timetest01_snaq.out:Elapsed time: 
+out/timetest02_snaq.out:Elapsed time: 
+out/timetest03_snaq.out:Elapsed time: 
+out/timetest04_snaq.out:Elapsed time: 
+out/timetest05_snaq.out:Elapsed time: 
+out/timetest06_snaq.out:Elapsed time: 
+out/timetest07_snaq.out:Elapsed time: 
+out/timetest08_snaq.out:Elapsed time: 
+out/timetest09_snaq.out:Elapsed time: 
+out/timetest10_snaq.out:Elapsed time: 
+out/timetest11_snaq.out:Elapsed time: 
+out/timetest12_snaq.out:Elapsed time: 
+out/timetest13_snaq.out:Elapsed time: 
+1,timetest12_snaq,out/bT1.out:Elapsed time: 
+out/net1_snaq.out:Elapsed time: 
+out/newtry1.out:Elapsed time: 
+out/timetest01_snaq.out:Elapsed time: 
+out/timetest02_snaq.out:Elapsed time: 
+out/timetest03_snaq.out:Elapsed time: 
+out/timetest04_snaq.out:Elapsed time: 
+out/timetest05_snaq.out:Elapsed time: 
+out/timetest06_snaq.out:Elapsed time: 
+out/timetest07_snaq.out:Elapsed time: 
+out/timetest08_snaq.out:Elapsed time: 
+out/timetest09_snaq.out:Elapsed time: 
+out/timetest10_snaq.out:Elapsed time: 
+out/timetest11_snaq.out:Elapsed time: 
+out/timetest12_snaq.out:Elapsed time: 
+out/timetest13_snaq.out:Elapsed time: 
+1,timetest13_snaq,out/bT1.out:Elapsed time: 
+out/net1_snaq.out:Elapsed time: 
+out/newtry1.out:Elapsed time: 
+out/timetest01_snaq.out:Elapsed time: 
+out/timetest02_snaq.out:Elapsed time: 
+out/timetest03_snaq.out:Elapsed time: 
+out/timetest04_snaq.out:Elapsed time: 
+out/timetest05_snaq.out:Elapsed time: 
+out/timetest06_snaq.out:Elapsed time: 
+out/timetest07_snaq.out:Elapsed time: 
+out/timetest08_snaq.out:Elapsed time: 
+out/timetest09_snaq.out:Elapsed time: 
+out/timetest10_snaq.out:Elapsed time: 
+out/timetest11_snaq.out:Elapsed time: 
+out/timetest12_snaq.out:Elapsed time: 
+out/timetest13_snaq.out:Elapsed time: 
+0,bT1,
+1,net1_snaq,
+1,newtry1,
+1,timetest01_snaq,
+1,timetest02_snaq,
+1,timetest03_snaq,
+1,timetest04_snaq,
+1,timetest05_snaq,
+1,timetest06_snaq,
+1,timetest07_snaq,
+1,timetest08_snaq,
+1,timetest09_snaq,
+1,timetest10_snaq,
+1,timetest11_snaq,
+1,timetest12_snaq,
+1,timetest13_snaq,
+0,bT1,out/bT1.out:Elapsed time: 103354
+out/net1_snaq.out:Elapsed time: 11648
+out/newtry1.out:Elapsed time: 88579
+out/timetest01_snaq.out:Elapsed time: 16688
+out/timetest02_snaq.out:Elapsed time: 37137
+out/timetest03_snaq.out:Elapsed time: 12630
+out/timetest04_snaq.out:Elapsed time: 21942
+out/timetest05_snaq.out:Elapsed time: 23949
+out/timetest06_snaq.out:Elapsed time: 39287
+out/timetest07_snaq.out:Elapsed time: 29822
+out/timetest08_snaq.out:Elapsed time: 51589
+out/timetest09_snaq.out:Elapsed time: 34831
+out/timetest10_snaq.out:Elapsed time: 29394
+out/timetest11_snaq.out:Elapsed time: 67926
+out/timetest12_snaq.out:Elapsed time: 18935
+out/timetest13_snaq.out:Elapsed time: 31456
+1,net1_snaq,out/bT1.out:Elapsed time: 103354
+out/net1_snaq.out:Elapsed time: 11648
+out/newtry1.out:Elapsed time: 88579
+out/timetest01_snaq.out:Elapsed time: 16688
+out/timetest02_snaq.out:Elapsed time: 37137
+out/timetest03_snaq.out:Elapsed time: 12630
+out/timetest04_snaq.out:Elapsed time: 21942
+out/timetest05_snaq.out:Elapsed time: 23949
+out/timetest06_snaq.out:Elapsed time: 39287
+out/timetest07_snaq.out:Elapsed time: 29822
+out/timetest08_snaq.out:Elapsed time: 51589
+out/timetest09_snaq.out:Elapsed time: 34831
+out/timetest10_snaq.out:Elapsed time: 29394
+out/timetest11_snaq.out:Elapsed time: 67926
+out/timetest12_snaq.out:Elapsed time: 18935
+out/timetest13_snaq.out:Elapsed time: 31456
+1,newtry1,out/bT1.out:Elapsed time: 103354
+out/net1_snaq.out:Elapsed time: 11648
+out/newtry1.out:Elapsed time: 88579
+out/timetest01_snaq.out:Elapsed time: 16688
+out/timetest02_snaq.out:Elapsed time: 37137
+out/timetest03_snaq.out:Elapsed time: 12630
+out/timetest04_snaq.out:Elapsed time: 21942
+out/timetest05_snaq.out:Elapsed time: 23949
+out/timetest06_snaq.out:Elapsed time: 39287
+out/timetest07_snaq.out:Elapsed time: 29822
+out/timetest08_snaq.out:Elapsed time: 51589
+out/timetest09_snaq.out:Elapsed time: 34831
+out/timetest10_snaq.out:Elapsed time: 29394
+out/timetest11_snaq.out:Elapsed time: 67926
+out/timetest12_snaq.out:Elapsed time: 18935
+out/timetest13_snaq.out:Elapsed time: 31456
+1,timetest01_snaq,out/bT1.out:Elapsed time: 103354
+out/net1_snaq.out:Elapsed time: 11648
+out/newtry1.out:Elapsed time: 88579
+out/timetest01_snaq.out:Elapsed time: 16688
+out/timetest02_snaq.out:Elapsed time: 37137
+out/timetest03_snaq.out:Elapsed time: 12630
+out/timetest04_snaq.out:Elapsed time: 21942
+out/timetest05_snaq.out:Elapsed time: 23949
+out/timetest06_snaq.out:Elapsed time: 39287
+out/timetest07_snaq.out:Elapsed time: 29822
+out/timetest08_snaq.out:Elapsed time: 51589
+out/timetest09_snaq.out:Elapsed time: 34831
+out/timetest10_snaq.out:Elapsed time: 29394
+out/timetest11_snaq.out:Elapsed time: 67926
+out/timetest12_snaq.out:Elapsed time: 18935
+out/timetest13_snaq.out:Elapsed time: 31456
+1,timetest02_snaq,out/bT1.out:Elapsed time: 103354
+out/net1_snaq.out:Elapsed time: 11648
+out/newtry1.out:Elapsed time: 88579
+out/timetest01_snaq.out:Elapsed time: 16688
+out/timetest02_snaq.out:Elapsed time: 37137
+out/timetest03_snaq.out:Elapsed time: 12630
+out/timetest04_snaq.out:Elapsed time: 21942
+out/timetest05_snaq.out:Elapsed time: 23949
+out/timetest06_snaq.out:Elapsed time: 39287
+out/timetest07_snaq.out:Elapsed time: 29822
+out/timetest08_snaq.out:Elapsed time: 51589
+out/timetest09_snaq.out:Elapsed time: 34831
+out/timetest10_snaq.out:Elapsed time: 29394
+out/timetest11_snaq.out:Elapsed time: 67926
+out/timetest12_snaq.out:Elapsed time: 18935
+out/timetest13_snaq.out:Elapsed time: 31456
+1,timetest03_snaq,out/bT1.out:Elapsed time: 103354
+out/net1_snaq.out:Elapsed time: 11648
+out/newtry1.out:Elapsed time: 88579
+out/timetest01_snaq.out:Elapsed time: 16688
+out/timetest02_snaq.out:Elapsed time: 37137
+out/timetest03_snaq.out:Elapsed time: 12630
+out/timetest04_snaq.out:Elapsed time: 21942
+out/timetest05_snaq.out:Elapsed time: 23949
+out/timetest06_snaq.out:Elapsed time: 39287
+out/timetest07_snaq.out:Elapsed time: 29822
+out/timetest08_snaq.out:Elapsed time: 51589
+out/timetest09_snaq.out:Elapsed time: 34831
+out/timetest10_snaq.out:Elapsed time: 29394
+out/timetest11_snaq.out:Elapsed time: 67926
+out/timetest12_snaq.out:Elapsed time: 18935
+out/timetest13_snaq.out:Elapsed time: 31456
+1,timetest04_snaq,out/bT1.out:Elapsed time: 103354
+out/net1_snaq.out:Elapsed time: 11648
+out/newtry1.out:Elapsed time: 88579
+out/timetest01_snaq.out:Elapsed time: 16688
+out/timetest02_snaq.out:Elapsed time: 37137
+out/timetest03_snaq.out:Elapsed time: 12630
+out/timetest04_snaq.out:Elapsed time: 21942
+out/timetest05_snaq.out:Elapsed time: 23949
+out/timetest06_snaq.out:Elapsed time: 39287
+out/timetest07_snaq.out:Elapsed time: 29822
+out/timetest08_snaq.out:Elapsed time: 51589
+out/timetest09_snaq.out:Elapsed time: 34831
+out/timetest10_snaq.out:Elapsed time: 29394
+out/timetest11_snaq.out:Elapsed time: 67926
+out/timetest12_snaq.out:Elapsed time: 18935
+out/timetest13_snaq.out:Elapsed time: 31456
+1,timetest05_snaq,out/bT1.out:Elapsed time: 103354
+out/net1_snaq.out:Elapsed time: 11648
+out/newtry1.out:Elapsed time: 88579
+out/timetest01_snaq.out:Elapsed time: 16688
+out/timetest02_snaq.out:Elapsed time: 37137
+out/timetest03_snaq.out:Elapsed time: 12630
+out/timetest04_snaq.out:Elapsed time: 21942
+out/timetest05_snaq.out:Elapsed time: 23949
+out/timetest06_snaq.out:Elapsed time: 39287
+out/timetest07_snaq.out:Elapsed time: 29822
+out/timetest08_snaq.out:Elapsed time: 51589
+out/timetest09_snaq.out:Elapsed time: 34831
+out/timetest10_snaq.out:Elapsed time: 29394
+out/timetest11_snaq.out:Elapsed time: 67926
+out/timetest12_snaq.out:Elapsed time: 18935
+out/timetest13_snaq.out:Elapsed time: 31456
+1,timetest06_snaq,out/bT1.out:Elapsed time: 103354
+out/net1_snaq.out:Elapsed time: 11648
+out/newtry1.out:Elapsed time: 88579
+out/timetest01_snaq.out:Elapsed time: 16688
+out/timetest02_snaq.out:Elapsed time: 37137
+out/timetest03_snaq.out:Elapsed time: 12630
+out/timetest04_snaq.out:Elapsed time: 21942
+out/timetest05_snaq.out:Elapsed time: 23949
+out/timetest06_snaq.out:Elapsed time: 39287
+out/timetest07_snaq.out:Elapsed time: 29822
+out/timetest08_snaq.out:Elapsed time: 51589
+out/timetest09_snaq.out:Elapsed time: 34831
+out/timetest10_snaq.out:Elapsed time: 29394
+out/timetest11_snaq.out:Elapsed time: 67926
+out/timetest12_snaq.out:Elapsed time: 18935
+out/timetest13_snaq.out:Elapsed time: 31456
+1,timetest07_snaq,out/bT1.out:Elapsed time: 103354
+out/net1_snaq.out:Elapsed time: 11648
+out/newtry1.out:Elapsed time: 88579
+out/timetest01_snaq.out:Elapsed time: 16688
+out/timetest02_snaq.out:Elapsed time: 37137
+out/timetest03_snaq.out:Elapsed time: 12630
+out/timetest04_snaq.out:Elapsed time: 21942
+out/timetest05_snaq.out:Elapsed time: 23949
+out/timetest06_snaq.out:Elapsed time: 39287
+out/timetest07_snaq.out:Elapsed time: 29822
+out/timetest08_snaq.out:Elapsed time: 51589
+out/timetest09_snaq.out:Elapsed time: 34831
+out/timetest10_snaq.out:Elapsed time: 29394
+out/timetest11_snaq.out:Elapsed time: 67926
+out/timetest12_snaq.out:Elapsed time: 18935
+out/timetest13_snaq.out:Elapsed time: 31456
+1,timetest08_snaq,out/bT1.out:Elapsed time: 103354
+out/net1_snaq.out:Elapsed time: 11648
+out/newtry1.out:Elapsed time: 88579
+out/timetest01_snaq.out:Elapsed time: 16688
+out/timetest02_snaq.out:Elapsed time: 37137
+out/timetest03_snaq.out:Elapsed time: 12630
+out/timetest04_snaq.out:Elapsed time: 21942
+out/timetest05_snaq.out:Elapsed time: 23949
+out/timetest06_snaq.out:Elapsed time: 39287
+out/timetest07_snaq.out:Elapsed time: 29822
+out/timetest08_snaq.out:Elapsed time: 51589
+out/timetest09_snaq.out:Elapsed time: 34831
+out/timetest10_snaq.out:Elapsed time: 29394
+out/timetest11_snaq.out:Elapsed time: 67926
+out/timetest12_snaq.out:Elapsed time: 18935
+out/timetest13_snaq.out:Elapsed time: 31456
+1,timetest09_snaq,out/bT1.out:Elapsed time: 103354
+out/net1_snaq.out:Elapsed time: 11648
+out/newtry1.out:Elapsed time: 88579
+out/timetest01_snaq.out:Elapsed time: 16688
+out/timetest02_snaq.out:Elapsed time: 37137
+out/timetest03_snaq.out:Elapsed time: 12630
+out/timetest04_snaq.out:Elapsed time: 21942
+out/timetest05_snaq.out:Elapsed time: 23949
+out/timetest06_snaq.out:Elapsed time: 39287
+out/timetest07_snaq.out:Elapsed time: 29822
+out/timetest08_snaq.out:Elapsed time: 51589
+out/timetest09_snaq.out:Elapsed time: 34831
+out/timetest10_snaq.out:Elapsed time: 29394
+out/timetest11_snaq.out:Elapsed time: 67926
+out/timetest12_snaq.out:Elapsed time: 18935
+out/timetest13_snaq.out:Elapsed time: 31456
+1,timetest10_snaq,out/bT1.out:Elapsed time: 103354
+out/net1_snaq.out:Elapsed time: 11648
+out/newtry1.out:Elapsed time: 88579
+out/timetest01_snaq.out:Elapsed time: 16688
+out/timetest02_snaq.out:Elapsed time: 37137
+out/timetest03_snaq.out:Elapsed time: 12630
+out/timetest04_snaq.out:Elapsed time: 21942
+out/timetest05_snaq.out:Elapsed time: 23949
+out/timetest06_snaq.out:Elapsed time: 39287
+out/timetest07_snaq.out:Elapsed time: 29822
+out/timetest08_snaq.out:Elapsed time: 51589
+out/timetest09_snaq.out:Elapsed time: 34831
+out/timetest10_snaq.out:Elapsed time: 29394
+out/timetest11_snaq.out:Elapsed time: 67926
+out/timetest12_snaq.out:Elapsed time: 18935
+out/timetest13_snaq.out:Elapsed time: 31456
+1,timetest11_snaq,out/bT1.out:Elapsed time: 103354
+out/net1_snaq.out:Elapsed time: 11648
+out/newtry1.out:Elapsed time: 88579
+out/timetest01_snaq.out:Elapsed time: 16688
+out/timetest02_snaq.out:Elapsed time: 37137
+out/timetest03_snaq.out:Elapsed time: 12630
+out/timetest04_snaq.out:Elapsed time: 21942
+out/timetest05_snaq.out:Elapsed time: 23949
+out/timetest06_snaq.out:Elapsed time: 39287
+out/timetest07_snaq.out:Elapsed time: 29822
+out/timetest08_snaq.out:Elapsed time: 51589
+out/timetest09_snaq.out:Elapsed time: 34831
+out/timetest10_snaq.out:Elapsed time: 29394
+out/timetest11_snaq.out:Elapsed time: 67926
+out/timetest12_snaq.out:Elapsed time: 18935
+out/timetest13_snaq.out:Elapsed time: 31456
+1,timetest12_snaq,out/bT1.out:Elapsed time: 103354
+out/net1_snaq.out:Elapsed time: 11648
+out/newtry1.out:Elapsed time: 88579
+out/timetest01_snaq.out:Elapsed time: 16688
+out/timetest02_snaq.out:Elapsed time: 37137
+out/timetest03_snaq.out:Elapsed time: 12630
+out/timetest04_snaq.out:Elapsed time: 21942
+out/timetest05_snaq.out:Elapsed time: 23949
+out/timetest06_snaq.out:Elapsed time: 39287
+out/timetest07_snaq.out:Elapsed time: 29822
+out/timetest08_snaq.out:Elapsed time: 51589
+out/timetest09_snaq.out:Elapsed time: 34831
+out/timetest10_snaq.out:Elapsed time: 29394
+out/timetest11_snaq.out:Elapsed time: 67926
+out/timetest12_snaq.out:Elapsed time: 18935
+out/timetest13_snaq.out:Elapsed time: 31456
+1,timetest13_snaq,out/bT1.out:Elapsed time: 103354
+out/net1_snaq.out:Elapsed time: 11648
+out/newtry1.out:Elapsed time: 88579
+out/timetest01_snaq.out:Elapsed time: 16688
+out/timetest02_snaq.out:Elapsed time: 37137
+out/timetest03_snaq.out:Elapsed time: 12630
+out/timetest04_snaq.out:Elapsed time: 21942
+out/timetest05_snaq.out:Elapsed time: 23949
+out/timetest06_snaq.out:Elapsed time: 39287
+out/timetest07_snaq.out:Elapsed time: 29822
+out/timetest08_snaq.out:Elapsed time: 51589
+out/timetest09_snaq.out:Elapsed time: 34831
+out/timetest10_snaq.out:Elapsed time: 29394
+out/timetest11_snaq.out:Elapsed time: 67926
+out/timetest12_snaq.out:Elapsed time: 18935
+out/timetest13_snaq.out:Elapsed time: 31456
