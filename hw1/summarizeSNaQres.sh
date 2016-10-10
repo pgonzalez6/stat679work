@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-echo analysis,Hmax,CPU,xtolAbs > output.csv
+echo analysis,Hmax,CPU> output.csv
 for i in log/*.log;
 do
 	echo "i=$i" 
