@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-echo analysis,Hmax,CPU,Nruns,Nfails,fabs,frel,xtolAbs,xtolRel,Seed> output.csv
+echo analysis,Hmax,CPU,Nruns,Nfails,fabs,frel,xtolAbs,xtolRel,Seed,under3440,under3450,under3460> output.csv
 for i in log/*.log;
 do
 	echo "i=$i" 
@@ -18,11 +18,29 @@ do
 #the values in smaller or greater than 3460, 3450 and 3460 (something like if [$ i -lt 3460] then I echo "1" else echo "0" fi]). This way you could get a 
 #new variable from 0 and 1, by adding the 1's could get the number of "successes" in each row. The first part works fine and I get all loglik values per row,
 #however I am having trouble posting the required information. I appreciate if someone can help me with this.
-#   under3460=$(sed -nE 's/.*-loglik=([0-9,]+).*/\1/p' $i echo | for i in $i do echo "i=$i" if [ $i -lt "3460" ] then echo "1" else echo "0" fi done)
-#   under3460=$(sed -nE 's/.*-loglik=([0-9,]+).*/\1/p' $i echo | for i in $i do echo "i=$i" if [ $i -lt "3460" ] then echo "1" else echo "0" fi done)
-#   under3460=$(sed -nE 's/.*-loglik=([0-9,]+).*/\1/p' $i echo | for i in $i do echo "i=$i" if [ $i -lt "3460" ] then echo "1" else echo "0" fi done)
-	echo "analysis=$analysis ; h=$h ; CPU=$CPU ; Nruns=$Nruns ; Nfails=$Nfails ; fabs=$fabs ; frel=$frel ; xtolAbs=$xtolAbs ; xtolRel=$xtolRel ; Seed=$Seed"
-    echo "$analysis,$h,$CPU,$Nruns,$Nfails,$fabs,$frel,$xtolAbs,$xtolRel,$Seed" >> output.csv	
+    sed -nE 's/.*-loglik=([0-9,]+).*/\1/p' $i > t1.txt
+	under3440=0
+    under3450=0
+    under3460=0
+    for i in $(cat t1.txt)
+    do
+      if [ $i -lt 3440 ] 
+      then
+        ((under3440=under3440+1))
+        ((under3450=under3450+1))
+        ((under3460=under3460+1))
+      elif [ $i -lt 3450 ]
+      then
+        ((under3440=under3440+1))
+        ((under3450=under3450+1))
+      elif [ $i -lt 3460 ]
+      then
+        ((under3440=under3440+1))
+      fi
+    done
+
+	echo "analysis=$analysis ; h=$h ; CPU=$CPU ; Nruns=$Nruns ; Nfails=$Nfails ; fabs=$fabs ; frel=$frel ; xtolAbs=$xtolAbs ; xtolRel=$xtolRel ; Seed=$Seed ; a=$under3440 ; b=$under3450 ; c=$under3460 "
+    echo "$analysis,$h,$CPU,$Nruns,$Nfails,$fabs,$frel,$xtolAbs,$xtolRel,$Seed,$under3440,$under3450,$under3460" >> output.csv	
 
 done
 
